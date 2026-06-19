@@ -226,7 +226,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'Arif', 'admin', NULL, '$2y$12$OI.GjIOqOXDdjV/6XCctA.icnLLzDi7NjtgSjvDxev7PlSqX9frAm', NULL, '2026-06-19 01:07:28', '2026-06-19 01:07:28');
+(1, 'Admin', 'admin', NULL, '$2y$12$OI.GjIOqOXDdjV/6XCctA.icnLLzDi7NjtgSjvDxev7PlSqX9frAm', NULL, '2026-06-19 01:07:28', '2026-06-19 01:07:28');
 
 -- --------------------------------------------------------
 
