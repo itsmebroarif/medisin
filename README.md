@@ -1,7 +1,7 @@
 # 🏥 Medisin - Clinic Management System
 
 Medisin adalah Sistem Manajemen Klinik modern yang dibangun dengan arsitektur decoupled (terpisah):
-- **Backend**: Laravel 11/13 (API Service) menggunakan PHP 8.3
+- **Backend**: Laravel 13 (API Service) menggunakan PHP 8.3
 - **Frontend**: Quasar Framework (Vue 3 / Vite) menggunakan Node.js 22
 
 Proyek ini telah dikonfigurasi untuk memudahkan setup otomatis dan deployment di berbagai komputer dengan konfigurasi lingkungan PHP 8.3 dan Node.js 22.
