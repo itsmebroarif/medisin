@@ -1,0 +1,12 @@
+{
+  "name": "clinic-management",
+  "version": "1.0.0",
+  "description": "Clinic Management System - Root Package",
+  "private": false,
+  "scripts": {
+    "setup": "node setup.js",
+    "start:backend": "start cmd /k \"cd backend && php artisan serve\"",
+    "start:frontend": "start cmd /k \"cd frontend && npm run dev\"",
+    "serve": "npm run start:backend && npm run start:frontend"
+  }
+}
